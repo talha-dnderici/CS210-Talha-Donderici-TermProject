@@ -47,3 +47,7 @@ pip install -r requirements.txt
 ## Authors
 
 Talha Donderici
+
+### References
+
+https://github.com/L-Dot/Letterboxd-list-scraper.git for data scrapping.
